@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 React 공부 목렂으로 제작하는 고객 관리 시스템 입니다.
+본 프로젝트는 React 공부 목적으로 제작하는 고객 관리 시스템 입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
